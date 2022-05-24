@@ -1,3 +1,1 @@
-# Proyecto_ISAC
-
-Ingeniería de Software Asistida por Computadora. 
+# Ingeniería de Software Asistida por Computadora
